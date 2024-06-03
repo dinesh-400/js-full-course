@@ -11,7 +11,7 @@ let isLoggedIn = false
 //string => "
 //boolean
 //null => standalone value
-//undefined => 
+//undefined =>  
 //symbol
 
 
