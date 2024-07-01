@@ -9,7 +9,7 @@ const gameName = new String('dinesh-dc-com')
 
 // console.log(gameName.__proto__);
 
-// console.log(gameName.charAt(5));
+// console.log(gameName.charAt(5)); 
 
 // console.log(gameName.indexOf('s'));
 
